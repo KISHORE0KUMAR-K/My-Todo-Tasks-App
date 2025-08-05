@@ -77,7 +77,7 @@ For Web:
 **SCREEN RECORD OF THE WORKING OF APPLICATION**
 https://github.com/user-attachments/assets/5e75fba0-0c3d-4304-bc1b-c260147787b2
 
-Developer Info-
+Developer Info
 
 Name: Kishore Kumar K
 Email: kkishorekumar2004@gmail.com
