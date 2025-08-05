@@ -106,3 +106,6 @@ This project was developed in under 48 hours as part of a hackathon hosted by [k
 The goal was to build a cross-platform Todo Task Management App with Firebase integration, social login, offline support, notifications, and clean UI.  
 The app is designed for scalability and real-world usability, focusing on user experience and clean, maintainable code.  
 Special attention was given to real-time updates, intuitive task management, and responsive design for both mobile and web.
+
+This project is a part of a hackathon run by https://www.katomaran.com
+
