@@ -1,16 +1,41 @@
-# todo_task_app
+# My Todo Tasks App 📝
 
-A new Flutter project.
+A cross-platform Todo Task Management App built using **Flutter** with **Firebase Authentication** (Google Sign-In) and Firestore for storing tasks.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Google Sign-In
+- ➕ Add new tasks with:
+  - Title
+  - Description
+  - Priority (Low/Medium/High)
+  - Due date
+- ✅ Mark tasks as complete/incomplete
+- 📝 Edit or delete tasks
+- 📋 View tasks under tabs:
+  - All
+  - Completed
+  - Pending
+- 🔍 Real-time search bar
+- 🎨 Clean UI with smooth animations
+- ☁️ Firebase Cloud Firestore backend
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+*(Add screenshots of your app from emulator here)*
+
+---
+
+## 🚀 Getting Started
+
+To run this project:
+
+```bash
+git clone https://github.com/KISHORE0KUMAR-K/My-Todo-Tasks-App.git
+cd My-Todo-Tasks-App
+flutter pub get
+flutter run
