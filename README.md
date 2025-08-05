@@ -31,6 +31,15 @@ A cross-platform Todo Task Management App built using **Flutter** with **Firebas
 ---
 
 ## 🚀 Getting Started
+## 🛠 Tech Stack
+
+- **Flutter** – for UI and cross-platform development  
+- **Dart** – programming language for Flutter  
+- **Firebase Authentication** – for Google Sign-In  
+- **Firebase Firestore** – for storing tasks online  
+- **flutter_local_notifications** – for task reminders  
+- **VS Code** – development environment  
+
 
 To run this project:
 
@@ -38,4 +47,4 @@ To run this project:
 git clone https://github.com/KISHORE0KUMAR-K/My-Todo-Tasks-App.git
 cd My-Todo-Tasks-App
 flutter pub get
-flutter run
+flutter run   
