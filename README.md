@@ -45,3 +45,49 @@ A cross-platform Todo Task Management Mobile Application developed using Flutter
    ```bash
    git clone https://github.com/KISHORE0KUMAR-K/My-Todo-Tasks-App.git
    cd My-Todo-Tasks-App
+
+2. **Install dependencies**
+
+   ```bash
+   flutter pub get
+
+3. **Configure Firebase**
+
+Set up a Firebase project at https://console.firebase.google.com
+
+Enable Firebase Authentication and configure Google Sign-In
+
+Create a Cloud Firestore database
+
+Download google-services.json (for Android) and place it in android/app/
+
+For Web, copy the Firebase configuration and replace it inside web/index.html
+
+4. **Run the app**
+
+For Android:
+   flutter run
+For Web:
+   flutter run -d chrome
+
+**SCREENSHOTS OF MY TODO TASKS APP**
+<img width="1464" height="764" alt="Screenshot 2025-08-06 004005" src="https://github.com/user-attachments/assets/503a22f1-12cf-47f4-b4d9-c7203c97de75" />
+<img width="1278" height="982" alt="Screenshot 2025-08-05 223705" src="https://github.com/user-attachments/assets/881cbc76-12d4-41e9-8b47-b9f8091c16d9" />
+
+**SCREEN RECORD OF THE WORKING OF APPLICATION**
+https://github.com/user-attachments/assets/5e75fba0-0c3d-4304-bc1b-c260147787b2
+
+**Developer Info**
+Name: Kishore Kumar K
+Email: kkishorekumar2004@gmail.com
+LinkedIn: linkedin.com/in/kishorekumark07
+
+**Final Notes**
+This project was developed in under 48 hours as part of a hackathon hosted by katomaran.com.
+
+The goal was to build a cross-platform Todo Task Management App with Firebase integration, social login, offline support, notifications, and clean UI.
+
+The app is designed for scalability and real-world usability, focusing on user experience and clean, maintainable code.
+
+Special attention was given to real-time updates, intuitive task management, and responsive design for both mobile and web.
+
