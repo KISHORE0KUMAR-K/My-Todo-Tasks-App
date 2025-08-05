@@ -77,14 +77,13 @@ For Web:
 **SCREEN RECORD OF THE WORKING OF APPLICATION**
 https://github.com/user-attachments/assets/5e75fba0-0c3d-4304-bc1b-c260147787b2
 
-
-Developer Info
+Developer Info-
 
 Name: Kishore Kumar K
 Email: kkishorekumar2004@gmail.com
 LinkedIn: linkedin.com/in/kishorekumark07
 
-**Final Notes**
+**Final Notes**-
 This project was developed in under 48 hours as part of a hackathon hosted by katomaran.com.
 
 The goal was to build a cross-platform Todo Task Management App with Firebase integration, social login, offline support, notifications, and clean UI.
