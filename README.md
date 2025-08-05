@@ -7,6 +7,7 @@ A cross-platform Todo Task Management Mobile Application developed using Flutter
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Assumptions](#assumptions)
 - [Tech Stack](#tech-stack)
 - [Installation and Setup](#installation-and-setup)
 - [Screenshots](#screenshots)
@@ -35,6 +36,14 @@ A cross-platform Todo Task Management Mobile Application developed using Flutter
 - Secure and scalable backend using Firebase Firestore  
 
 ---
+
+## Assumptions
+
+- The user requires only Google Sign-In for authentication.
+- Tasks are only personal and not shared between users.
+- Task notifications are assumed to be local, not push-based.
+- Offline support will be limited to cached data and not full sync.
+
 
 ## Tech Stack
 
