@@ -82,8 +82,10 @@ flutter run -d chrome
 ## Screenshots
 
 ### UI Screenshots:
-- ![Screenshot 2025-08-06 004005](assets/screenshots/screenshot1.png)
-- ![Screenshot 2025-08-05 223705](assets/screenshots/screenshot2.png)
+-<img width="1464" height="764" alt="TODO APP LOGIN PAGE" src="https://github.com/user-attachments/assets/c52ee1f7-9a24-4af9-9f14-0e670f298b20" />
+
+<img width="1278" height="982" alt="TODO APP MAIN SCREEN" src="https://github.com/user-attachments/assets/319d17cd-d046-485b-afd6-cbad932a8961" />
+
 
 ### Demo Video:
 [Screen Recording of the App in Action](https://github.com/user-attachments/assets/5e75fba0-0c3d-4304-bc1b-c260147787b2)
