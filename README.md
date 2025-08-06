@@ -98,13 +98,20 @@ flutter run -d chrome
 ## Screenshots
 
 ### UI Screenshots:
--<img width="1464" height="764" alt="TODO APP LOGIN PAGE" src="https://github.com/user-attachments/assets/c52ee1f7-9a24-4af9-9f14-0e670f298b20" />
 
-<img width="1278" height="982" alt="TODO APP MAIN SCREEN" src="https://github.com/user-attachments/assets/319d17cd-d046-485b-afd6-cbad932a8961" />
+![Todo Tasks mobile apk Login-screen](https://github.com/user-attachments/assets/af550757-df08-45bc-881e-83f7a5ecbdcb)
+![Todo Tasks mobile apk main_screen](https://github.com/user-attachments/assets/fbcdbbed-b206-4fa3-92ca-2cfb6af3be0f)
+
+
+
 
 
 ### Demo Video:
-[Screen Recording of the App in Action](https://github.com/user-attachments/assets/5e75fba0-0c3d-4304-bc1b-c260147787b2)
+
+
+https://github.com/user-attachments/assets/f6f87187-404b-44ca-9a92-215494b213db
+
+
 
 ---
 
