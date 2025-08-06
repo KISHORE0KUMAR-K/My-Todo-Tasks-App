@@ -14,6 +14,13 @@ A cross-platform Todo Task Management Mobile Application developed using Flutter
 - [Developer Info](#developer-info)
 - [Final Notes](#final-notes)
 
+ ## 📦 Download & Try
+
+[![Download](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/KISHORE0KUMAR-K/My-Todo-Tasks-App/releases/download/v1.0/app-release.apk)
+
+---
+
+
 ---
 
 ## Overview
