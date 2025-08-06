@@ -99,7 +99,7 @@ flutter run -d chrome
 
 ### UI Screenshots:
 
-![Todo Tasks mobile apk Login-screen](https://github.com/user-attachments/assets/af550757-df08-45bc-881e-83f7a5ecbdcb)
+![Todo Tasks mobile apk Login-screen](https://github.com/user-attachments/assets/af550757-df08-45bc-881e-83f7a5ecbdcb width="300"/)
 ![Todo Tasks mobile apk main_screen](https://github.com/user-attachments/assets/fbcdbbed-b206-4fa3-92ca-2cfb6af3be0f)
 
 
